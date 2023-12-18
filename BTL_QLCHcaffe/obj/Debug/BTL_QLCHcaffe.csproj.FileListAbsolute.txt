@@ -1,0 +1,75 @@
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe.config
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.pdb
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.Properties.Resources.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.QLCHcaffe.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csproj.GenerateResource.Cache
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.exe
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.pdb
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.login.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.admin.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmDanhmuc.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmthucan.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmBan.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmChiTietHD.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmQLHoadon.resources
+C:\Users\LAPTOP\Documents\Visual Studio 2015\Projects\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmtaikhoan.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe.config
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.exe
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.pdb
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.pdb
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csprojResolveAssemblyReference.cache
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.admin.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmBan.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmChiTietHD.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmDanhmuc.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmQLHoadon.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmtaikhoan.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmthucan.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.Properties.Resources.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.QLCHcaffe.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.login.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csproj.GenerateResource.Cache
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmTKMonAn.resources
+D:\New folder\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmDoanhThu.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe.config
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.exe
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.pdb
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.pdb
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.admin.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmBan.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmChiTietHD.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmDanhmuc.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmDoanhThu.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmQLHoadon.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmtaikhoan.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmthucan.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmTKMonAn.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.Properties.Resources.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.QLCHcaffe.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.login.resources
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csproj.GenerateResource.Cache
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Desktop\tài liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe.config
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.exe
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.pdb
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.exe
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\bin\Debug\BTL_QLCHcaffe.pdb
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csprojResolveAssemblyReference.cache
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.admin.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmBan.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmChiTietHD.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmDanhmuc.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmDoanhThu.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmQLHoadon.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmtaikhoan.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmthucan.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.frmTKMonAn.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.Properties.Resources.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.QLCHcaffe.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.login.resources
+C:\Users\LAPTOP\Desktop\tài-liệu\C#\BTL_QLCHcaffe\BTL_QLCHcaffe\obj\Debug\BTL_QLCHcaffe.csproj.GenerateResource.Cache
